@@ -1,80 +1,29 @@
-# Teamwork
+# About
 
-Aleksandr Ivanovich Petrov
-[
-  {
-    "full_name": "Aleksandr Ivanovich Petrov",
-    "alternate_spellings": ["Alexander Petrov", "Alexandr Petrov", "Aleksander Petrov"],
-    "nickname": "Sasha",
-    "date_of_birth": "1985-07-12",
-    "country_of_origin": "Russia",
-    "alphabet": "Latin"
-  },
-  {
-    "full_name": "Александр Иванович Петров",
-    "alternate_spellings": ["Александр Петров", "Александр И. Петров"],
-    "nickname": "Саша",
-    "date_of_birth": "12.07.1985",
-    "country_of_origin": "Россия",
-    "alphabet": "Cyrillic"
-  },
-  {
-    "full_name": "Aleksandr I. Petrov",
-    "alternate_spellings": ["A. I. Petrov", "Alek Petrov"],
-    "nickname": "Alex",
-    "date_of_birth": "07/12/1985",
-    "country_of_origin": "Russian Federation",
-    "alphabet": "Latin"
-  },
-  {
-    "full_name": "Alexander Ivanovich Petrov",
-    "alternate_spellings": ["Alexander Petrov", "Alex Petrov"],
-    "nickname": "Sanya",
-    "date_of_birth": "1985-12-07",
-    "country_of_origin": "Ukraine",
-    "alphabet": "Latin"
-  },
-  {
-    "full_name": "Александр Петров",
-    "alternate_spellings": ["Александр Иванович Петров", "Саша Петров"],
-    "nickname": "Саня",
-    "date_of_birth": "12 July 1985",
-    "country_of_origin": "Belarus",
-    "alphabet": "Cyrillic"
-  }
-]
-Maria Eduarda da Silva
-[
-  {
-    "full_name": "Maria Eduarda da Silva",
-    "alternate_spellings": ["Maria E. da Silva", "Maria Eduarda Silva"],
-    "nickname": "Duda",
-    "date_of_birth": "1992-03-15",
-    "region": "Brazil",
-    "language": "Portuguese"
-  },
-  {
-    "full_name": "María Eduarda da Silva",
-    "alternate_spellings": ["María E. da Silva", "María Eduarda Silva"],
-    "nickname": "Mari",
-    "date_of_birth": "15/03/1992",
-    "region": "Argentina",
-    "language": "Spanish"
-  },
-  {
-    "full_name": "Mary Eduarda Silva",
-    "alternate_spellings": ["Mary E. Silva", "Mary D. Silva"],
-    "nickname": "Mary",
-    "date_of_birth": "03-15-1992",
-    "region": "United States",
-    "language": "English"
-  },
-  {
-    "full_name": "Maria Eduarda da Silva",
-    "alternate_spellings": ["M. Eduarda da Silva", "Maria E. d. Silva"],
-    "nickname": "Du",
-    "date_of_birth": "1992/03/15",
-    "region": "Portugal",
-    "language": "Portuguese"
-  }
-]
+We believe in future where learning and play are united.
+
+We want to provide players financial opportunities to mitigate unforeseen problems such as poverty and inequality. And above all, imagine a future where gaming can change the world.
+
+Our project's mission is to create a playful and user-friendly way for the general public to understand and adopt block-chain technology. 
+Our project uses NFT racehorses as a tool to entertain and learn for the future of gaming and virtual reality.
+
+![alt text](public/MuntyEco.png)
+
+# Legendary Marketplace
+
+### Trade Legendary items for cryptocurrency on the in-game and web Marketplace.
+
+Join the community and dive into a world of endless possibilities.
+
+![alt text](public/nftmarketplace.png)
+
+# Getting Started
+- OS:<br/>
+  Mac, Linux, Windows<br/>
+    \*This project works best on macOS. If you encounter any problems while using other operating systems, please contact the administrator.
+- Prerequirements:<br/>
+  Node v20.x.x, Google Chrome
+- Installing Dependecies:<br/>
+  npm install --global yarn 
+-  Running project:<br/>
+  npm start
