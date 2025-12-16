@@ -1,3 +1,5 @@
+[![Discussions](https://img.shields.io/badge/Discussions-Join-blue)](https://github.com/DEV-MAT1996/Teamwork/discussions)
+
 # About
 
 We believe in future where learning and play are united.
